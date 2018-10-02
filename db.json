@@ -1,0 +1,13 @@
+{
+  "source": [
+    {
+      "name": "source1",
+      "tags": [
+        {
+          "name": "tag1",
+          "lastCollected": "1234567890"
+        }
+      ]
+    }
+  ]
+}
