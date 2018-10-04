@@ -1,11 +1,12 @@
 {
-  "source": [
+  "prototype": [
     {
-      "name": "source1",
+      "name": "testSource",
       "tags": [
         {
           "name": "tag1",
-          "lastCollected": "1234567890"
+          "reportRate":30,
+          "scanRate":60
         }
       ]
     }
