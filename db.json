@@ -10,5 +10,11 @@
         }
       ]
     }
+  ],
+  "source": [
+    {
+      "name": "source1",
+      "prototype": "tesSource"
+    }
   ]
 }
