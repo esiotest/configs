@@ -1,0 +1,14 @@
+{
+  "prototype": [
+    {
+      "name": "testSource",
+      "tags": [
+        {
+          "name": "tag1",
+          "reportRate":30,
+          "scanRate":60
+        }
+      ]
+    }
+  ]
+}
